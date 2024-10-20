@@ -3,9 +3,11 @@
 .web
 __pycache__/
 assets/external/
-PDF EJEMPLOS
+EJEMPLO
 uploaded_files
 .venv
 assets
+.DS_Store
+
 
 
