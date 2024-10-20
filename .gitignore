@@ -3,7 +3,9 @@
 .web
 __pycache__/
 assets/external/
-PDF_EJEMPLOS/
-uploaded_files/
+PDF EJEMPLOS
+uploaded_files
+.venv
+assets
 
 
