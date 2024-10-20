@@ -4,7 +4,7 @@
 __pycache__/
 assets/external/
 EJEMPLO
-uploaded_files
+uploaded_files/
 .venv
 assets
 .DS_Store
